@@ -1,0 +1,27 @@
+2024-10-24 18:03:11,306 [INFO]: LeadRepush: 0
+2024-10-24 18:03:41,009 [INFO]: Excel file saved: C:\Users\HP\AppData\Local\Temp\TVS_LMS_24_10_2024e5jwy9t0.xlsx
+2024-10-24 18:03:57,260 [INFO]: Reply sent to rajesh.yerremshetty@unicorntechmedia.com with CC to kirti.jindal@unicorntechmedia.com, ankur.kataria@unicorntechmedia.com, arun.reddy@newgendigital.com,Neha.Parasher@tvsmotor.com,prasanth@newgendigital.com, priyadharshini@newgendigital.com, punitha@newgendigital.com, kartik.shah@unicorntechmedia.com, somesh@unicorntechmedia.com for the email with subject 'Re: Updated EMS response for null EMS'.
+2024-10-25 20:37:00,645 [INFO]: LeadRepush: 0
+2024-10-25 20:37:01,067 [INFO]: Excel file saved: C:\Users\HP\AppData\Local\Temp\TVS_LMS_25_10_2024216jrb0g.xlsx
+2024-10-25 20:37:12,404 [INFO]: Reply sent to rajesh.yerremshetty@unicorntechmedia.com with CC to kirti.jindal@unicorntechmedia.com, ankur.kataria@unicorntechmedia.com, arun.reddy@newgendigital.com,Neha.Parasher@tvsmotor.com,prasanth@newgendigital.com, priyadharshini@newgendigital.com, punitha@newgendigital.com, kartik.shah@unicorntechmedia.com, somesh@unicorntechmedia.com for the email with subject 'Re: Updated EMS response for null EMS'.
+2024-10-26 18:01:34,509 [INFO]: LeadRepush: 12
+2024-10-26 18:01:34,815 [ERROR]: count is not equal to zero so try reupdate count1
+2024-10-26 18:02:02,900 [INFO]: LeadRepush: 0
+2024-10-26 18:02:04,361 [INFO]: Excel file saved: C:\Users\HP\AppData\Local\Temp\TVS_LMS_26_10_2024ml482qgw.xlsx
+2024-10-26 18:02:15,585 [INFO]: Reply sent to rajesh.yerremshetty@unicorntechmedia.com with CC to kirti.jindal@unicorntechmedia.com, ankur.kataria@unicorntechmedia.com, arun.reddy@newgendigital.com,Neha.Parasher@tvsmotor.com,prasanth@newgendigital.com, priyadharshini@newgendigital.com, punitha@newgendigital.com, kartik.shah@unicorntechmedia.com, somesh@unicorntechmedia.com for the email with subject 'Re: Updated EMS response for null EMS'.
+2024-10-28 18:01:07,804 [INFO]: LeadRepush: 38
+2024-10-28 18:01:07,900 [ERROR]: count is not equal to zero so try reupdate count1
+2024-10-28 18:01:41,040 [INFO]: LeadRepush: 0
+2024-10-28 18:01:41,879 [INFO]: Excel file saved: C:\Users\HP\AppData\Local\Temp\TVS_LMS_28_10_202446sh3dpo.xlsx
+2024-10-28 18:01:56,873 [INFO]: Reply sent to rajesh.yerremshetty@unicorntechmedia.com with CC to kirti.jindal@unicorntechmedia.com, ankur.kataria@unicorntechmedia.com, arun.reddy@newgendigital.com,Neha.Parasher@tvsmotor.com,prasanth@newgendigital.com, priyadharshini@newgendigital.com, punitha@newgendigital.com, kartik.shah@unicorntechmedia.com, somesh@unicorntechmedia.com for the email with subject 'Re: Updated EMS response for null EMS'.
+2024-10-29 18:01:44,888 [ERROR]: Failed to establish a database connection: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53].  (53) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (53)')
+2024-10-29 18:01:45,230 [ERROR]: Failed to execute the query: 'NoneType' object has no attribute 'execute'
+2024-10-29 18:01:45,231 [ERROR]: An error occurred: object of type 'NoneType' has no len()
+2024-10-29 18:32:18,748 [INFO]: LeadRepush: 0
+2024-10-29 18:32:24,738 [INFO]: Excel file saved: C:\Users\HP\AppData\Local\Temp\TVS_LMS_29_10_2024qk2kbqep.xlsx
+2024-10-29 18:32:34,225 [INFO]: Reply sent to rajesh.yerremshetty@unicorntechmedia.com with CC to kirti.jindal@unicorntechmedia.com, ankur.kataria@unicorntechmedia.com, arun.reddy@newgendigital.com,Neha.Parasher@tvsmotor.com,prasanth@newgendigital.com, priyadharshini@newgendigital.com, punitha@newgendigital.com, kartik.shah@unicorntechmedia.com, somesh@unicorntechmedia.com for the email with subject 'Re: Updated EMS response for null EMS'.
+2024-10-30 18:15:05,970 [INFO]: LeadRepush: 1
+2024-10-30 18:15:06,073 [ERROR]: count is not equal to zero so try reupdate count1
+2024-10-30 18:15:24,288 [INFO]: LeadRepush: 0
+2024-10-30 18:15:32,034 [INFO]: Excel file saved: C:\Users\HP\AppData\Local\Temp\TVS_LMS_30_10_2024ch9kcl70.xlsx
+2024-10-30 18:15:41,098 [INFO]: Reply sent to rajesh.yerremshetty@unicorntechmedia.com with CC to kirti.jindal@unicorntechmedia.com, ankur.kataria@unicorntechmedia.com, arun.reddy@newgendigital.com,Neha.Parasher@tvsmotor.com,prasanth@newgendigital.com, priyadharshini@newgendigital.com, punitha@newgendigital.com, kartik.shah@unicorntechmedia.com, somesh@unicorntechmedia.com for the email with subject 'Re: Updated EMS response for null EMS'.
